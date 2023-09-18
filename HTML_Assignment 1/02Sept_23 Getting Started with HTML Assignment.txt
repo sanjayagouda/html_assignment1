@@ -1,0 +1,24 @@
+1. Write a simple program in HTML that displays the heading “HTML defines the content and structure of your website” on the web browser?
+Solution Link:
+	
+
+2. Explain the purpose of comments in HTML and provide an example of how to use comments in HTML documents?
+Solution:
+We are using the comment in HTML for which part of HTML we don’t want to render in the browser and also it will be easy to understand for others who are going to work on it. 
+Example Link:
+
+
+3. Write an HTML program that includes a heading, a paragraph of text, a horizontal line and a line break, arrange these elements to create a simple web page layout.
+Solution Link:
+
+
+4. Write an short note on Tag and Element with an example?
+Solution:
+HTML Tag defines the start and stop of an element and HTML element defines the opening and closing tag as well the content of inside it.
+Example Link:
+
+5. What is the DOCTYPE element in HTML?
+Solution:
+
+The DOCTYPE element defines the document type and version of the HTML.
+
